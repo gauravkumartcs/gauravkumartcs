@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Gaurav</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 - 🔭 I’m currently working in **Tata Consultancy Services**
 
 - 🌱 I’m currently learning **Java, JavaScript, Node, MongoDB, Angular, Spring, DSA**
 
-- 👨‍💻 My Portfolio [https://gauravkumar34.github.io/portfolio/](https://gauravkumar34.github.io/portfolio/)
-
 - 💬 Ask me about **Angular, Spring Boot, Node, JavaScript, Java, Data Structure**
 
-- 📫 How to reach me **urwidgaurav@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
